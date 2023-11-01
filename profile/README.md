@@ -1,5 +1,3 @@
-# KATARA LLAMA
-
 Katara is an ecosystem with Geoprocessing, 3D Map Visualization and a Large Language Model (Llama 2).
 
 At first glance, it's just a chat with a globe, but the ecosystem goes far beyond what you can see.
