@@ -93,23 +93,34 @@ It is divided into three main parts:
 
 Our AI was trained with data provided by NASA. The training process consisted of a few steps: Data Screening, Data Capture, Data Processing and finally Data Processing by our LLaMa version 2.
 
+<img style="margin-left: auto; margin-right: auto; width: 100%;" src="/assets/storage.png">
+
 The data was taken from the following sources:
 
 #### Internal Data
 
 [LLaMa 2](https://ai.meta.com/llama/): Dataset from Facebook's own model
+
 [Llama-2-7b-Chat-GGUF](https://huggingface.co/TheBloke/Llama-2-7b-Chat-GGUF): Model that uses the GPT-Generated Unified Format
 
 #### External Data
 
 [Earth Observatory](https://earthobservatory.nasa.gov/)
+
 [Environmental Performance Index (EPI)](https://epi.yale.edu/)
+
 [Wikipedia](https://en.wikipedia.org/wiki/Water)
+
 [Climatekids - Nasa](https://climatekids.nasa.gov/)
+
 [Climate - Nasa](https://climate.nasa.gov/)
+
 [Center for Science Education](https://ncse.ngo/)
+
 [Earth Data - Nasa](https://www.earthdata.nasa.gov/)
+
 [HydroSheds](https://www.hydrosheds.org/)
+
 [Food and Agriculture Organization of the United Nations - FAO](https://www.fao.org/home/en)
 
-<img style="margin-left: auto; margin-right: auto; width: 100%;" src="/assets/storage.png">
+
