@@ -6,8 +6,6 @@ The entire ecosystem is divided into five main layers: **Geoprocessing**, **Fron
 
 Click on the [link](https://github.com/project-katara/.github/blob/main/assets/katara.png) for the complete flowchart of the katara ecosyst
 
-<img style="margin-left: auto; margin-right: auto; width: 100%;" src="/assets/katara.png">
-
 ## Artificial Intelligence (AI) - LLAMA
 
 Our LLaMa was created using a pre-processed model called Llama-2-7b-Chat-GGUF. Basically, it converts Llama 2 to a standard called GPT-Generated Unified Format.
