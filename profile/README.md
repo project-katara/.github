@@ -4,7 +4,7 @@ At first glance, it's just a chat with a globe, but the ecosystem goes far beyon
 
 The entire ecosystem is divided into five main layers: **Geoprocessing**, **Frontend**, **Backend**, **AI** (Large Language Model - Llama 2), **Storage** (LLAMA 7B, Water Datasets).
 
-Click on the [link](https://github.com/project-katara/.github/blob/main/assets/katara_system.png) for the complete flowchart of the katara ecosyst
+Click on the [link](https://github.com/project-katara/.github/blob/main/assets/katara_system.png) for the complete flowchart of the katara ecosystem
 
 ## Artificial Intelligence (AI) - LLAMA
 
